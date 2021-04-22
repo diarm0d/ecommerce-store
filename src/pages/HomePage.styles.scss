@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 .homepage {
   display: flex;
   flex-direction: column;
@@ -13,7 +15,7 @@
 }
 
 .menu-item {
-  background-color: #DFE7EC;
+  background-color: #E9EEF2;
   box-shadow: 0 1px 4px rgba(0,0,0,0.2);
   min-width: 30%;
   height: 240px;
@@ -40,7 +42,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 1px solid black;
+    border: 1px solid #E39BA4;
     border-radius: 8px;
 
     .title {
